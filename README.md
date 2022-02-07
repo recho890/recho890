@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @recho890
 - 👀 I’m interested in muay thai
-- 🌱 I’m currently learning how to write a compiler for a made up programming language or maybe how to create my own blockchain with token
+- 🌱 I’m currently learning how to write a game in C# using Unity
 - 💞️ I’m looking to collaborate on nothing. maybe?
 - 📫 How to reach me PM if available here
 
